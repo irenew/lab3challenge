@@ -15,7 +15,7 @@ var HomePage = require('./pages/HomePage');
 
 var menuItems = [
   // inject:menuitems
-  { payload: 'home', text: 'Lab 3 Challenge' },
+  { payload: 'home', text: 'Lab 3' },
   // endinject
 ];
 
