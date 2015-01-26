@@ -39,6 +39,7 @@ module.exports = React.createClass({
     return (
       <div className='home-page'>
         my-app
+        <h1>Lab 3 Challenge</h1>
       </div>
     );
   }

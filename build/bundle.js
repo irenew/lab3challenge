@@ -21,7 +21,7 @@ var menuItems = [
 
 var titles = {
   // inject:titles
-  '/home': 'Here is the home page for Lab 3',
+  '/home': 'Lab 3',
   // endinject
 };
 
